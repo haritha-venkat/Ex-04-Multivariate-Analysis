@@ -32,8 +32,8 @@ Find the pairwise correlation of all columns in the dataframe.corr()
 Save the final data set into the file
 ## CODE:
 
-Name : harithashree.V
-Register Number : 212222230046
+/*Name : harithashree.V
+Register Number : 212222230046*/
 ```python
 import pandas as pd
 import numpy as np
